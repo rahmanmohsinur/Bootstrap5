@@ -1,3 +1,2 @@
-# Bootstrap5
-Bootstrap 5 Themes
+# This is a WordPress Theme wit Bootstrap v5
 Musical Video Theme
